@@ -1,0 +1,24 @@
+# Build and Output Files
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# User-Specific Files
+*.user
+*.vs/
+.vscode/
+
+# Logs and Debugging
+*.log
+logs/
+
+# Environment Files
+.env
+secrets.json
+
+# Dependency Folders
+node_modules/
+packages/
+#test
